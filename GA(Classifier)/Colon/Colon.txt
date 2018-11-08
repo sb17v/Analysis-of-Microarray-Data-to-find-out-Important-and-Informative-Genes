@@ -1,0 +1,251 @@
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    51
+
+Genepool: 
+     0     0     1     0
+     0     1     1     0
+     0     0     1     0
+     0     1     0     1
+     1     0     0     0
+     0     1     0     0
+     0     1     0     0
+     0     1     1     1
+     0     1     1     0
+     0     1     0     1
+
+Final Index: 
+     2     8     9
+
+Final Result: 
+     0     1     1     0
+     0     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    56
+
+Genepool: 
+     1     0     0     1
+     1     1     0     1
+     1     1     1     1
+     1     0     0     1
+     0     1     1     0
+     0     1     0     1
+     1     0     1     1
+     1     0     1     1
+     1     1     1     1
+     1     1     1     1
+
+Final Index: 
+     3     5     9    10
+
+Final Result: 
+     0     1     1     0
+     1     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    40
+
+Genepool: 
+     1     0     0     1
+     0     1     1     1
+     0     0     1     1
+     0     0     1     1
+     0     1     1     1
+     1     0     0     1
+     0     0     1     1
+     0     0     1     1
+     0     0     0     1
+     0     0     0     1
+
+Final Index: 
+     2     5
+
+Final Result: 
+     0     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    53
+
+Genepool: 
+     1     1     0     0
+     0     0     1     1
+     0     1     0     0
+     0     0     0     0
+     1     1     0     0
+     1     0     1     0
+     1     0     1     1
+     0     0     1     0
+     1     1     1     1
+     1     0     1     0
+
+Final Index: 
+     9
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    53
+
+Genepool: 
+     0     0     1     1
+     1     0     0     0
+     0     0     1     0
+     1     1     0     0
+     0     1     0     0
+     1     1     1     0
+     0     1     1     0
+     1     0     1     1
+     0     1     0     0
+     1     0     0     1
+
+Final Index: 
+     6     7
+
+Final Result: 
+     0     1     1     0
+     1     1     1     0
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    46
+
+Genepool: 
+     1     1     1     1
+     1     1     0     1
+     0     0     1     1
+     0     1     1     0
+     1     0     0     0
+     0     1     0     1
+     1     0     1     1
+     1     0     1     1
+     1     1     1     1
+     1     1     1     1
+
+Final Index: 
+     1     4     9    10
+
+Final Result: 
+     0     1     1     0
+     1     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    53
+
+Genepool: 
+     0     0     1     0
+     1     0     0     0
+     0     0     1     1
+     0     1     1     1
+     1     0     0     0
+     1     0     0     0
+     0     0     1     1
+     0     1     1     1
+     0     1     1     1
+     0     0     1     1
+
+Final Index: 
+     4     8     9
+
+Final Result: 
+     0     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    56
+
+Genepool: 
+     0     1     0     0
+     1     1     1     0
+     1     1     1     1
+     0     0     0     0
+     0     1     0     1
+     1     1     0     0
+     1     1     1     1
+     1     1     1     1
+     1     0     1     1
+     1     0     1     1
+
+Final Index: 
+     2     3     7     8
+
+Final Result: 
+     1     1     1     0
+     1     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    53
+
+Genepool: 
+     1     0     1     0
+     1     0     1     0
+     0     0     1     1
+     0     0     1     0
+     0     1     0     1
+     1     0     0     1
+     1     1     1     1
+     0     0     0     0
+     1     0     1     1
+     1     0     0     0
+
+Final Index: 
+     7
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    56
+
+Local Accuracy: 
+    40
+
+Genepool: 
+     1     0     1     1
+     0     1     0     0
+     1     1     1     0
+     1     0     0     0
+     0     1     1     0
+     0     1     1     0
+     1     0     0     1
+     1     0     0     1
+     1     1     0     1
+     1     1     0     1
+
+Final Index: 
+     3     5     6
+
+Final Result: 
+     0     1     1     0
+     1     1     1     0
+
+----------------------------------------Best Set:--------------------------------------- 
+     0     1     1     0
+     0     1     1     1
+     1     1     1     0
+     1     1     1     1

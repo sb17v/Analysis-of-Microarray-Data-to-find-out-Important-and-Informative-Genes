@@ -1,0 +1,302 @@
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     0     0     1     0
+     0     1     1     0
+     0     0     1     0
+     0     1     0     1
+     1     0     0     0
+     0     1     0     0
+     0     0     1     0
+     0     0     1     0
+     0     0     0     0
+     0     0     0     0
+
+Final Index: 
+     2     4     5     6
+
+Final Result: 
+     0     1     0     0
+     0     1     0     1
+     0     1     1     0
+     1     0     0     0
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     1     0     0     1
+     1     1     0     1
+     1     1     1     1
+     1     0     0     1
+     0     1     1     0
+     0     1     0     1
+     1     1     1     1
+     1     1     1     1
+     1     0     1     1
+     1     0     1     1
+
+Final Index: 
+     1     2     3     4     5     6     7     8     9    10
+
+Final Result: 
+     0     1     0     1
+     0     1     1     0
+     1     0     0     1
+     1     0     1     1
+     1     1     0     1
+     1     1     1     1
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     1     0     0     1
+     0     1     1     1
+     0     0     1     1
+     0     0     1     1
+     0     1     1     1
+     1     0     0     1
+     1     0     0     0
+     1     0     0     0
+     1     0     1     0
+     1     0     1     0
+
+Final Index: 
+     1     2     3     4     5     6     7     8     9    10
+
+Final Result: 
+     0     0     1     1
+     0     1     1     1
+     1     0     0     0
+     1     0     0     1
+     1     0     1     0
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     1     1     0     0
+     0     0     1     1
+     0     1     0     0
+     0     0     0     0
+     1     1     0     0
+     1     0     1     0
+     1     0     0     1
+     1     0     0     1
+     1     1     0     1
+     0     0     0     1
+
+Final Index: 
+     1     2     3     5     6     7     8     9
+
+Final Result: 
+     0     0     1     1
+     0     1     0     0
+     1     0     0     1
+     1     0     1     0
+     1     1     0     0
+     1     1     0     1
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     0     0     1     1
+     1     0     0     0
+     0     0     1     0
+     1     1     0     0
+     0     1     0     0
+     1     1     1     0
+     0     1     1     0
+     0     1     1     0
+     0     1     0     0
+     0     1     0     0
+
+Final Index: 
+     1     2     4     5     6     7     8     9    10
+
+Final Result: 
+     0     0     1     1
+     0     1     0     0
+     0     1     1     0
+     1     0     0     0
+     1     1     0     0
+     1     1     1     0
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     1     1     1     1
+     1     1     0     1
+     0     0     1     1
+     0     1     1     0
+     1     0     0     0
+     0     1     0     1
+     1     1     0     0
+     1     1     0     0
+     1     0     0     0
+     1     0     0     0
+
+Final Index: 
+     1     2     3     4     5     6     7     8     9    10
+
+Final Result: 
+     0     0     1     1
+     0     1     0     1
+     0     1     1     0
+     1     0     0     0
+     1     1     0     0
+     1     1     0     1
+     1     1     1     1
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     0     0     1     0
+     1     0     0     0
+     0     0     1     1
+     0     1     1     1
+     1     0     0     0
+     1     0     0     0
+     1     0     0     1
+     1     0     0     1
+     1     1     0     1
+     1     1     0     1
+
+Final Index: 
+     2     3     4     5     6     7     8     9    10
+
+Final Result: 
+     0     0     1     1
+     0     1     1     1
+     1     0     0     0
+     1     0     0     1
+     1     1     0     1
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     0     1     0     0
+     1     1     1     0
+     1     1     1     1
+     0     0     0     0
+     0     1     0     1
+     1     1     0     0
+     0     1     1     0
+     0     1     1     0
+     0     0     1     0
+     0     0     1     0
+
+Final Index: 
+     1     2     3     5     6     7     8
+
+Final Result: 
+     0     1     0     0
+     0     1     0     1
+     0     1     1     0
+     1     1     0     0
+     1     1     1     0
+     1     1     1     1
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     1     0     1     0
+     1     0     1     0
+     0     0     1     1
+     0     0     1     0
+     0     1     0     1
+     1     0     0     1
+     1     1     0     0
+     1     1     0     0
+     1     0     0     0
+     0     1     0     0
+
+Final Index: 
+     1     2     3     5     6     7     8     9    10
+
+Final Result: 
+     0     0     1     1
+     0     1     0     0
+     0     1     0     1
+     1     0     0     0
+     1     0     0     1
+     1     0     1     0
+     1     1     0     0
+
+Global Accuracy: 
+    34
+
+Local Accuracy: 
+    34
+
+Genepool: 
+     1     0     1     1
+     0     1     0     0
+     1     1     1     0
+     1     0     0     0
+     0     1     1     0
+     0     1     1     0
+     1     0     1     1
+     1     0     1     1
+     1     1     1     1
+     1     1     1     1
+
+Final Index: 
+     1     2     3     4     5     6     7     8     9    10
+
+Final Result: 
+     0     1     0     0
+     0     1     1     0
+     1     0     0     0
+     1     0     1     1
+     1     1     1     0
+     1     1     1     1
+
+----------------------------------------Best Set:--------------------------------------- 
+     0     0     1     1
+     0     1     0     0
+     0     1     0     1
+     0     1     1     0
+     0     1     1     1
+     1     0     0     0
+     1     0     0     1
+     1     0     1     0
+     1     0     1     1
+     1     1     0     0
+     1     1     0     1
+     1     1     1     0
+     1     1     1     1

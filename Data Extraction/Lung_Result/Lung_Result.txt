@@ -1,0 +1,6 @@
+enter the original file'lung.xlsx'
+enter the score file'lung_score.xlsx'
+enter the mfv file'lung_mfv.xlsx'
+enter the pearson file'lung_pearson_correlation.xlsx'
+enter the sd file'lung.xlsx_sd.xls'
+    99

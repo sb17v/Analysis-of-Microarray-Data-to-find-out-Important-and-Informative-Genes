@@ -1,0 +1,6 @@
+enter the original file'DLBCL.xlsx'
+enter the score file'DLBCL_score.xlsx'
+enter the mfv file'DLBCL_mfv.xlsx'
+enter the pearson file'DLBCL_pearson_correlation.xlsx'
+enter the sd file'DLBCL.xlsx_sd.xls'
+    18

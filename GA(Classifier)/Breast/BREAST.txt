@@ -1,0 +1,243 @@
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    69
+
+Genepool: 
+     0     0     0     1
+     0     1     0     1
+     1     1     1     0
+     0     1     0     1
+     1     1     0     0
+     1     1     1     0
+     1     1     1     1
+     1     1     1     1
+     1     1     0     1
+     0     1     1     1
+
+Final Index: 
+     7     8
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    69
+
+Genepool: 
+     0     0     0     0
+     0     1     1     0
+     1     1     0     0
+     0     1     1     1
+     0     1     0     0
+     1     1     1     1
+     0     1     1     1
+     1     1     1     1
+     0     0     1     1
+     0     1     1     1
+
+Final Index: 
+     6     8
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    68
+
+Genepool: 
+     0     0     0     1
+     1     1     1     1
+     0     0     1     1
+     1     1     0     1
+     1     1     1     0
+     1     0     0     0
+     1     1     1     0
+     1     1     0     1
+     1     0     1     0
+     0     1     0     1
+
+Final Index: 
+     2
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    65
+
+Genepool: 
+     0     1     1     1
+     1     1     0     1
+     0     0     0     1
+     0     1     0     1
+     1     1     0     1
+     1     0     1     0
+     1     1     1     1
+     0     1     1     1
+     1     0     1     1
+     1     1     1     1
+
+Final Index: 
+     7    10
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    69
+
+Genepool: 
+     1     0     0     1
+     1     0     0     0
+     0     1     1     0
+     0     0     1     0
+     1     1     1     0
+     1     1     1     1
+     1     1     1     1
+     1     1     1     0
+     1     0     1     1
+     1     0     1     0
+
+Final Index: 
+     6     7
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    69
+
+Local Accuracy: 
+    62
+
+Genepool: 
+     0     0     0     1
+     1     1     0     0
+     0     0     1     0
+     0     1     0     1
+     1     0     1     0
+     0     0     0     0
+     1     1     0     0
+     1     0     1     0
+     0     1     0     0
+     1     1     1     0
+
+Final Index: 
+    10
+
+Final Result: 
+     1     1     1     0
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    65
+
+Genepool: 
+     0     1     0     1
+     0     0     0     1
+     0     1     1     0
+     0     1     0     0
+     1     1     1     1
+     1     0     1     0
+     0     1     1     1
+     1     1     1     0
+     0     1     0     1
+     0     1     1     0
+
+Final Index: 
+     5
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    69
+
+Genepool: 
+     1     1     0     1
+     0     0     1     1
+     0     0     0     1
+     0     1     0     0
+     1     1     0     1
+     1     0     1     0
+     1     1     1     1
+     1     1     1     1
+     1     0     1     1
+     1     0     1     1
+
+Final Index: 
+     7     8
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    68
+
+Genepool: 
+     0     1     1     1
+     1     1     1     1
+     1     1     0     1
+     0     1     1     1
+     1     0     1     0
+     0     0     0     0
+     0     0     1     1
+     1     1     1     1
+     0     1     1     1
+     1     1     0     1
+
+Final Index: 
+     2     8
+
+Final Result: 
+     1     1     1     1
+
+Global Accuracy: 
+    70
+
+Local Accuracy: 
+    68
+
+Genepool: 
+     1     0     1     1
+     1     1     1     1
+     0     1     0     0
+     0     1     0     0
+     0     1     1     0
+     1     1     0     0
+     0     1     1     1
+     1     0     1     0
+     0     1     0     1
+     0     0     1     0
+
+Final Index: 
+     2
+
+Final Result: 
+     1     1     1     1
+
+----------------------------------------Best Set:--------------------------------------- 
+     1     1     1     0
+     1     1     1     1

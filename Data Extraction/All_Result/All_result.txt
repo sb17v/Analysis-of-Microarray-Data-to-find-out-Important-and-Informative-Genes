@@ -1,0 +1,6 @@
+enter the original file'all.xlsx'
+enter the score file'all_score.xlsx'
+enter the mfv file'all_mfv.xlsx'
+enter the pearson file'all_pearson_correlation.xlsx'
+enter the sd file'all.xlsx_sd.xls'
+    38

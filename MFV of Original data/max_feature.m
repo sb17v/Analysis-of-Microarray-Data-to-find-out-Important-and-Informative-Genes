@@ -1,0 +1,24 @@
+clear;
+a=xlsread('nor_prostate_test.xls');
+data=dis5(a);
+data1=data(:,1:25);
+data2=data(:,26:34);
+[p,q]=size(data);
+count=1;
+for i=1:p
+    c1=mode(data1(i,:));
+    c2=mode(data2(i,:));
+    if(c1~=c2)
+        %disp('msmsms');
+        %disp(c1);
+        %disp(c2);
+        moddata(count,:)=data(i,:);
+        h1=histc(data1(i,:),c1);
+        h2=histc(data2(i,:),c2);
+        r(count,1)=(h1+h2)/q;
+        r(count,2)=i;
+        count=count+1;
+        disp(r);
+    end
+end
+xlswrite('nprostate_mfv_total.xlsx',r);
